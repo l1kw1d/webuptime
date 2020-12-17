@@ -20,8 +20,6 @@ sites:
     url: https://cematools.com
   - name: Groupe Lupien
     url: https://groupelupien.com
-  - name: Styll Design
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
