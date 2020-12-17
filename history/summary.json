@@ -76,19 +76,19 @@
     "url": "https://styll.design",
     "icon": "https://favicons.githubusercontent.com/styll.design",
     "slug": "styll-design",
-    "status": "down",
-    "uptime": "12.85%",
-    "uptimeDay": "12.85%",
-    "uptimeWeek": "12.85%",
-    "uptimeMonth": "12.85%",
-    "uptimeYear": "12.85%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "13.56%",
+    "uptimeDay": "13.56%",
+    "uptimeWeek": "13.56%",
+    "uptimeMonth": "13.56%",
+    "uptimeYear": "13.56%",
+    "time": 232,
+    "timeDay": 232,
+    "timeWeek": 232,
+    "timeMonth": 232,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2020-12-17": 1
+      "2020-12-17": 9
     }
   },
   {
@@ -144,25 +144,5 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Styll Design",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "styll-design",
-    "status": "down",
-    "uptime": "11.90%",
-    "uptimeDay": "11.90%",
-    "uptimeWeek": "11.90%",
-    "uptimeMonth": "11.90%",
-    "uptimeYear": "11.90%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
-    "dailyMinutesDown": {
-      "2020-12-17": 1
-    }
   }
 ]
