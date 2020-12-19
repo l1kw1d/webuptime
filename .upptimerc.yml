@@ -3,13 +3,21 @@ owner: l1kw1d # Your GitHub username
 repo: webuptime # Your Github repository name
 
 # Add your sites here
+assignees:
+  - l1kw1d
 sites:
   - name: Zombie Technology
     url: https://zombie.technology
-  - name: JProvost - my website
-    url: https://jprovo.st
   - name: Panel ZST
     url: https://hq.bunkers.co:2083
+  - name: Relation Manager
+    url: https://rm.zombie.technology
+  - name: Little Scout
+    url: https://pampersultra.zombie.technology
+  - name: Mail Headers Analyzer
+    url: https://mha.bunkers.co
+  - name: JProvost - my website
+    url: https://jprovo.st
   - name: FabConcept3D
     url: https://fabconcept3d.com
   - name: Styll Design
@@ -26,10 +34,10 @@ status-website:
   cname: up.zombie.technology
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
+  name: ZST Website Uptime
+  introTitle: Websites status monitoring
+  introMessage: More to come
   navbar:
     - title: Status
       href: /
