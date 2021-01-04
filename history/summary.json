@@ -22,9 +22,9 @@
     "url": "https://hq.bunkers.co:2083",
     "icon": "https://favicons.githubusercontent.com/hq.bunkers.co",
     "slug": "panel-zst",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 306,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "Relation Manager",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 48,
+      "2021-01-04": 232,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
       "2021-01-01": 1440,
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 48,
+      "2021-01-04": 232,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
       "2021-01-01": 1440,
@@ -124,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 48,
+      "2021-01-04": 232,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
       "2021-01-01": 1440,
