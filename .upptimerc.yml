@@ -32,7 +32,7 @@ status-website:
 
   cname: up.zombie.technology
   logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
-  name: ZST Website Uptime
+  name: JP - Surveillance Web 
   introTitle: Websites status monitoring / Surveillance de votre site web
   introMessage: JProvost Cybersec & IT consultant
   navbar:
