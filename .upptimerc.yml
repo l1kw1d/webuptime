@@ -26,21 +26,17 @@ sites:
     url: https://minicasa.design
   - name: CemaTools
     url: https://cematools.com/
-
+  - name: Metallia  
+    url: https://www.metallia.ca/
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
+
   cname: up.zombie.technology
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
   name: ZST Website Uptime
-  introTitle: Websites status monitoring
-  introMessage: More to come
+  introTitle: Websites status monitoring / Surveillance de votre site web
+  introMessage: JProvost Cybersec & IT consultant
   navbar:
-    - title: Status
+    - title: Status | JProvost Cybersec & IT consultant
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
