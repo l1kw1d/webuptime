@@ -1,4 +1,4 @@
-# [📈 Live Status](https://up.zombie.technology): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://up.zombie.technology): <!--live status--> **🟩 All systems operational** | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://up.zombie.technology)
 
 This repository contains the open-source uptime monitor and status page for [L1kw1d](https://jprovo.st), powered by [Upptime](https://github.com/upptime/upptime).
 
