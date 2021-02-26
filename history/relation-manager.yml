@@ -1,7 +1,7 @@
-url: https://zstcrm.herokuapp.com/
+url: https://pampersultra.herokuapp.com/
 status: down
-code: 404
-responseTime: 69
-lastUpdated: 2021-02-26T23:18:00.245Z
+code: 503
+responseTime: 149
+lastUpdated: 2021-02-26T23:42:23.967Z
 startTime: Sat Dec 19 2020 10:36:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
