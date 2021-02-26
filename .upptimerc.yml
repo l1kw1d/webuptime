@@ -11,11 +11,7 @@ sites:
   - name: Panel ZST
     url: https://hq.bunkers.co:2083
   - name: Relation Manager
-    url: https://zstcrm.herokuapp.com/
-  - name: Little Scout
     url: https://pampersultra.herokuapp.com/
-  - name: Mail Headers Analyzer
-    url: http://mha.bunkers.co
   - name: JProvost - my website
     url: https://jprovo.st
   - name: FabConcept3D
