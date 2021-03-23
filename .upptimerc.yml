@@ -26,6 +26,8 @@ sites:
     url: https://cematools.com/
   - name: Metallia  
     url: https://www.metallia.ca/
+  - name: JoeVee
+    url: https://joevee.ca
 status-website:
 
   cname: up.zombie.technology
