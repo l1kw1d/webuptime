@@ -22,7 +22,7 @@
     "url": "https://hq.bunkers.co:2083",
     "icon": "https://favicons.githubusercontent.com/hq.bunkers.co",
     "slug": "panel-zst",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 759,
     "timeDay": 11301,
     "timeWeek": 2684,
-    "timeMonth": 1271,
+    "timeMonth": 788,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 186,
-    "timeWeek": 160,
+    "timeWeek": 153,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
