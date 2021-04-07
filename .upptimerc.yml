@@ -48,7 +48,7 @@ status-website:
   introMessage: JProvost Cybersec & IT consultant
   navbar:
     - title: Status | JProvost Cybersec & IT consultant
-      href: /
+      href:  https://up.zombie.technology
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: My Website
