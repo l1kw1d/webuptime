@@ -9,16 +9,13 @@ assignees:
 sites:
   - name: Zombie Technology
     url: https://zombie.technology
-  - name: Panel ZST
-    url: https://hq.bunkers.co:2083
   - name: Relation Manager
     url: https://pampersultra.herokuapp.com/
   - name: JProvost - my website
     url: https://jprovo.st
-  - name: WiFi QR 
-    url: https://wifi.pin.plus
   - name: FabConcept3D
     url: https://fabconcept3d.com
+    icon: https://fabconcept3d.com/favicon.ico
   - name: Styll Design
     url: https://styll.design
   - name: MiniCasa
@@ -27,22 +24,36 @@ sites:
     url: https://cematools.com/
   - name: Metallia  
     url: https://www.metallia.ca/
+    icon: https://cdn.shopify.com/s/files/1/0544/9518/3021/files/icone-metallia-couleurs_32x32.jpg?v=1613487174
   - name: JoeVee
     url: https://joevee.ca
+    icon: https://raw.githubusercontent.com/l1kw1d/joevee-ws/main/img/favicon-32x32.png
     ########################
+  - name: Panel ZST
+    url: https://hq.bunkers.co:2083
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: JP - Serveur de courrier
     url: $MY_MS
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Anti-Phishing
     url: $BW_MAL
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Prevention
     url: $WATCHER
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Collector
     url: $TH
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Cortex
     url: $CORTEX
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: Laboratoire Anti-Menace
     url: $MISP
-  
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+  - name: WiFi QR 
+    url: https://wifi.pin.plus
+    icon: https://wifi.pin.plus/favicon.ico
+    
 status-website:
   theme: dark
   cname: up.zombie.technology
@@ -59,4 +70,5 @@ status-website:
       href: https://pin.plus/JP
     - title: WIFI QR
       href: https://pin.plus/WIFI
+      
  
