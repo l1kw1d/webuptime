@@ -1,0 +1,43 @@
+@import "compass/css3";
+
+body {
+  background:#fff;
+  background-repeat:repeat-y;
+  margin:0;
+  padding:0;
+  height:100%;
+  transition:300ms;
+}
+html {
+  height:100%;
+}
+#shield > path, #shield > text {
+  opacity:0;
+  transition:500ms;
+  moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  font-size:3.7em;
+  font-weight:normal;
+}
+
+#firstLetter tspan {
+  text-shadow:-2px 2px 0px rgba(0,0,0,0.5);
+}
+#lastLetter tspan {
+  text-shadow:2px 2px 0px rgba(0,0,0,0.5);
+}
+text {
+  font-family: 'Droid Serif';
+  &.serif {
+    font-family: 'Droid Serif';
+  }
+}
+#shield {
+  margin:0 auto;
+  width:100%;
+  height:90vh;
+  padding-top:5vh;
+  display:block;
+  cursor:pointer;
+}
