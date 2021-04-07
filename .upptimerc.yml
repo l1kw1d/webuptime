@@ -1,6 +1,7 @@
 # Change these first
 owner: l1kw1d # Your GitHub username
 repo: webuptime # Your Github repository name
+theme: dark
 
 # Add your sites here
 assignees:
@@ -29,6 +30,16 @@ sites:
   - name: JoeVee
     url: https://joevee.ca
 status-website:
+sites:
+  - name: Mail Server
+    url: https://mc.pin.plus
+  - name: Ops! Anti-Phishing
+    url: https://breach.website:8338
+  - name: Laboratoire Anti-Menace
+    url: https://misp.bunkers.co/
+  - name: Ops! Prevention
+    url: https://watcher.bunkers.co
+
 
   cname: up.zombie.technology
   logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
@@ -40,3 +51,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: My Website
+      href: https://pin.plus/JP
+    - title: WIFI QR
+      href: https://pin.plus/WIFI
+    - title: Mail Serv
+      href: https://mc.pin.plus
+ 
