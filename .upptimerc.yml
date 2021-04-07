@@ -33,11 +33,11 @@ sites:
   - name: Mail Server
     url: https://mc.pin.plus
   - name: Ops! Anti-Phishing
-    url: https://breach.website:8338
+    url: http://breach.website:8338
   - name: Laboratoire Anti-Menace
     url: https://misp.bunkers.co/
   - name: Ops! Prevention
-    url: https://watcher.bunkers.co
+    url: https://watcher.bunkers.co:9002
   
 status-website:
   theme: dark
