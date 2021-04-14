@@ -6,11 +6,7 @@ repo: webuptime # Your Github repository name
 # Add your sites here
 assignees:
   - l1kw1d
-sites:
-  - name: Zombie Technology
-    url: https://zombie.technology
-  - name: Relation Manager
-    url: https://pampersultra.herokuapp.com/
+sites: 
   - name: JProvost - my website
     url: https://jprovo.st
   - name: FabConcept3D
@@ -59,7 +55,9 @@ sites:
   - name: Virtual Center
     url: $VIRTUAL
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-    
+  - name: Huggins
+    url: https://pampersultra.herokuapp.com/
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
 status-website:
   theme: dark
   cname: up.zombie.technology
