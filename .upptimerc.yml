@@ -50,7 +50,9 @@ sites:
   - name: WiFi QR 
     url: https://wifi.pin.plus
     icon: https://wifi.pin.plus/favicon.ico
-    
+  - name: BTC Server 
+    url: $BP
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
 status-website:
   theme: dark
   cname: up.zombie.technology
