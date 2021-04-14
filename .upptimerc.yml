@@ -41,9 +41,6 @@ sites:
   - name: OPS! Prevention
     url: $WATCHER
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: OPS! Collector
-    url: $TH
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Cortex
     url: $CORTEX
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
