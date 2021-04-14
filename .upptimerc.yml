@@ -56,6 +56,9 @@ sites:
   - name: Local Breach
     url: $BREACH
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+  - name: Virtual Center
+    url: $VIRTUAL
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
     
 status-website:
   theme: dark
