@@ -31,6 +31,9 @@ sites:
   - name: JP - Serveur de courrier
     url: $MY_MS
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+  - name: Control Threats Informations Panel
+    url: $OCTI_FRONT
+    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: OPS! Anti-Phishing
     url: $BW_MAL
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
@@ -56,8 +59,10 @@ sites:
     url: $VIRTUAL
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
   - name: Huggins
-    url: https://pampersultra.herokuapp.com/
+    url: $HUGGINS
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+    
+    
 status-website:
   theme: dark
   cname: up.zombie.technology
