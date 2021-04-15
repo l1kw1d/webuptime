@@ -46,6 +46,9 @@ sites:
   - name: Laboratoire Anti-Menace
     url: $MISP
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+    expectedStatusCodes:
+    - 200
+    - 302
   - name: WiFi QR 
     url: https://wifi.pin.plus
     icon: https://wifi.pin.plus/favicon.ico
@@ -58,6 +61,9 @@ sites:
   - name: Virtual Center
     url: $VIRTUAL
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
+    expectedStatusCodes:
+    - 200
+    - 302
   - name: Huggins
     url: $HUGGINS
     icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
