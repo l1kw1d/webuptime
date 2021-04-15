@@ -17,7 +17,11 @@ sites:
   - name: MiniCasa
     url: https://minicasa.design
   - name: CemaTools
-    url: https://cematools.com/
+    url: http://cematools.com/
+    expectedStatusCodes:
+    - 200
+    - 301
+    - 302
   - name: Metallia  
     url: https://www.metallia.ca/
     icon: https://cdn.shopify.com/s/files/1/0544/9518/3021/files/icone-metallia-couleurs_32x32.jpg?v=1613487174
