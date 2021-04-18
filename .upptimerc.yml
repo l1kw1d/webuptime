@@ -17,7 +17,7 @@ sites:
   - name: MiniCasa
     url: https://minicasa.design
   - name: CemaTools
-    url: http://cematools.com/
+    url: https://cematools.com/
     expectedStatusCodes:
     - 200
     - 301
