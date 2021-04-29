@@ -166,7 +166,7 @@
     "url": "$OCTI_FRONT",
     "icon": "https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png",
     "slug": "control-threats-informations-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
