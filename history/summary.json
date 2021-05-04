@@ -256,7 +256,7 @@
     "url": "https://wifi.pin.plus",
     "icon": "https://wifi.pin.plus/favicon.ico",
     "slug": "wi-fi-qr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
