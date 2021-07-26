@@ -1,7 +1,7 @@
 url: $HUGGINS
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2021-07-25T23:21:06.833Z
+status: down
+code: 503
+responseTime: 85
+lastUpdated: 2021-07-26T09:52:45.761Z
 startTime: Wed Apr 14 2021 08:38:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
