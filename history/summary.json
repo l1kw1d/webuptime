@@ -31,7 +31,7 @@
     "time": 1937,
     "timeDay": 2275,
     "timeWeek": 2000,
-    "timeMonth": 1974,
+    "timeMonth": 2034,
     "timeYear": 1937,
     "dailyMinutesDown": {}
   },
@@ -328,17 +328,17 @@
     "url": "$HUGGINS",
     "icon": "https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png",
     "slug": "huggins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 258,
-    "timeWeek": 174,
-    "timeMonth": 567,
-    "timeYear": 570,
+    "time": 566,
+    "timeDay": 172,
+    "timeWeek": 163,
+    "timeMonth": 552,
+    "timeYear": 566,
     "dailyMinutesDown": {}
   }
 ]
