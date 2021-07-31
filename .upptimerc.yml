@@ -29,48 +29,9 @@ sites:
     url: https://joevee.ca
     icon: https://raw.githubusercontent.com/l1kw1d/joevee-ws/main/img/favicon-32x32.png
     ########################
-  - name: Panel ZST
-    url: https://hq.bunkers.co:2083
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: JP - Serveur de courrier
-    url: $MY_MS
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: Control Threats Informations Panel
-    url: $OCTI_FRONT
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: OPS! Anti-Phishing
-    url: $BW_MAL
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: OPS! Prevention
-    url: $WATCHER
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: OPS! Cortex
-    url: $CORTEX
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: Laboratoire Anti-Menace
-    url: $MISP
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-    expectedStatusCodes:
-    - 200
-    - 302
   - name: WiFi QR 
     url: https://wifi.pin.plus
     icon: https://wifi.pin.plus/favicon.ico
-  - name: BTC Server 
-    url: $BP
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: Local Breach
-    url: $BREACH
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-  - name: Virtual Center
-    url: $VIRTUAL
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
-    expectedStatusCodes:
-    - 200
-    - 302
-  - name: Huggins
-    url: $HUGGINS
-    icon: https://raw.githubusercontent.com/l1kw1d/heartmonitor/master/favicon-32x32.png
     
     
 status-website:
