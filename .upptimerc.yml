@@ -36,14 +36,14 @@ sites:
     
 status-website:
   theme: dark
-  cname: up.zombie.technology
+  cname: up.bunkers.co
   logoUrl: https://github.com/Zombie-Technology/ZSTMAIN/blob/main/assets/images/logos/logo_red_black.png
   name: JP - Surveillance Web 
   introTitle: Websites status monitoring / Surveillance de votre site web
   introMessage: JProvost Cybersec & IT consultant
   navbar:
     - title: Status | JProvost Cybersec & IT consultant
-      href:  https://up.zombie.technology
+      href:  https://up.bunkers.co
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: My Website
